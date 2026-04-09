@@ -80,6 +80,15 @@ The dataset includes:
 
 ---
 
-## 📬 Contact
+## 📌 Citation
 
-For questions or collaboration, please contact the authors listed in the paper.
+If you use this code or dataset, please cite the following papers:
+
+### 🔹 OPGM (this work)
+```bibtex
+@article{opgm_libs,
+  title={Optical Property-Guided Spectral Line Screening Method for LIBS Analysis},
+  author={Gong, Aojun and Huang, Liming and Wang, Haozhe and Zhang, Deng and Hu, Zhenlin and Yu, Yuan and Guo, Lianbo},
+  journal={Talanta},
+  year={2025}
+}
